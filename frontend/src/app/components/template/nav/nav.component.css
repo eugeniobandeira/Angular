@@ -1,0 +1,19 @@
+.sidenav {
+    background-color: #3f51d5;
+    width: 200px;
+    padding-left: 10px;
+}
+.sidenav a {
+    color: #fff;
+}
+.sidenav i {
+    padding-right: 10px;
+}
+.nav-list {
+    display: flex;
+    flex-direction: column;
+}
+.mat-list-item {
+    display: flex;
+    align-items: center;
+}

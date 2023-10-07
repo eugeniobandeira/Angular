@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Preta",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Marcador BIC Preta",
+      "price": 10.89
+    },
+    {
+      "id": 3,
+      "name": "Iphone 20",
+      "price": 2000
+    },
+    {
+      "name": "Geladeira",
+      "price": "500.99",
+      "id": 4
+    }
+  ]
+}
